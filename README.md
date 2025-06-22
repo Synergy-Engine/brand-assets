@@ -51,6 +51,8 @@ Do yourself a favor and use GitHub's search bar instead of navigating through th
 * Need a scalable white logo with a circle and padding? Search for `synergy_logo_white_circle_padding.svg`.
 * Looking for a teal gradient logo, no circle, 512px PNG? Try `synergy_logo_primary_dark_gradient-512.png`.
 
+![example-logos](https://github.com/Synergy-Engine/brand-assets/blob/main/repo-media/example-logos.png?raw=true)
+
 ### Other Assets
 
 * **GitHub Social Cards**: Social media cards for GitHub repositories. Can be found in [`assets/github-social-cards`](https://github.com/Synergy-Engine/brand-assets/tree/main/assets/github-social-cards).
@@ -62,11 +64,11 @@ Do yourself a favor and use GitHub's search bar instead of navigating through th
 
 Synergy has three primary colors, one for every theme:
 
-| Theme | Color | Hex | RGB | HSL |
-| --- | --- | --- | --- | --- |
-| Dark | Teal | `#117474` | `(17, 116, 116)` | `(180, 100%, 26%)` |
-| Light | Orange | `#D46A2E` | `(212, 106, 46)` | `(22, 66%, 51%)` |
-| Grey | Purple | `#4D22A7` | `(77, 34, 167)` | `(259, 66%, 39%)` |
+| Theme | Color | Hex | RGB | HSL | Swatch |
+| --- | --- | --- | --- | --- | --- |
+| Dark | Teal | `#117474` | `(17, 116, 116)` | `(180, 100%, 26%)` | ![teal-swatch](https://github.com/Synergy-Engine/brand-assets/blob/main/repo-media/teal-swatch.png?raw=true) |
+| Light | Orange | `#D46A2E` | `(212, 106, 46)` | `(22, 66%, 51%)` | ![orange-swatch](https://github.com/Synergy-Engine/brand-assets/blob/main/repo-media/orange-swatch.png?raw=true) |
+| Grey | Purple | `#4D22A7` | `(77, 34, 167)` | `(259, 66%, 39%)` | ![purple-swatch](https://github.com/Synergy-Engine/brand-assets/blob/main/repo-media/purple-swatch.png?raw=true) |
 
 #### Typography
 
