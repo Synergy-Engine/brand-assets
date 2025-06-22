@@ -44,7 +44,7 @@ There are *a lot* of variants of the logo, so you can find the one that best sui
 
 Do yourself a favor and use GitHub's search bar instead of navigating through the folder structure. This is the naming convention:
 
-`synergy_logo_{color}_[{gradient}]_[{gradient_radial}]_[{inner_shadow}]_[{circle}]-{size}.{format}`
+`synergy_logo_{color}_[{gradient}]_[{gradient_radial}]_[{inner_shadow}]_[{circle}]_[{padding}]-{size}.{format}`
 
 **Example Searches**:
 
